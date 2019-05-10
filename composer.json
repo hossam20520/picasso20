@@ -1,0 +1,15 @@
+{
+    "name": "picasso20/core",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hossam hassan",
+            "email": "hossamhassan889@gmail.com"
+        }
+    ],
+    "require": {
+
+        "picasso50/picasso50": "dev-master" 
+    }
+}
